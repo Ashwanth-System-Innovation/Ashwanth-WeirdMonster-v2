@@ -39,7 +39,7 @@ Weird Monster - html, css and js
 # Canvas Text
 <img src="Screenshot-CanvasText.png"/>
 
-* Demo: <a href="https://tuberboy.github.io/weird-monster/canvastext.html" target="_blank">Click Here</a>
+* Demo: <a href="file:///D:/index.html" target="_blank">Click Here</a>
 
 # Attraction
 <img src="Screenshot-Attraction.png"/>
